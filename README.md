@@ -37,8 +37,7 @@ $ whoami
 
 | projeto | descrição |
 |---------|-----------|
-| [inquietudine](https://github.com/Doenteinutil/inquietudine) | arquivo digital sombrio. webgl, dark, segredos. |
-| [838](https://github.com/Doenteinutil/838) | site de grupo discord. canvas rain, menu radial. |
+| [838](https://838.neocities.org/) | site institucional |
 
 <br/>
 
