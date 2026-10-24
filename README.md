@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>hey, i'm <a href="https://github.com/Doenteinutil">oln</a> 👾</h1>
+  <h1>hey, i'm <a href="https://github.com/Doenteinutil">oln</a> </h1>
   <p>building things that probably shouldn't exist.</p>
 </div>
 
